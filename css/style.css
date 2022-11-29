@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: oblique;
+}
+
+body {
+    background-color: darkgray;
+}
+
+.contenido {
+    background-color: rgb(153, 237, 248); /*serv*/
+    padding: 50px;
+    max-width: 90%;
+    height: auto;
+    margin: auto;
+    align-items: baseline;
+}
+h1 {    
+    text-align: center;
+    text-decoration: underline;
+    font-size: medium;
+}
